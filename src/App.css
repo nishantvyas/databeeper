@@ -37,6 +37,28 @@
   left: 0;
   right: 0;
   text-align: center;
-  color: #666;
   font-size: 0.875rem;
+}
+
+.footer-links {
+  margin-bottom: 0.5rem;
+}
+
+.footer-links a {
+  color: #888;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.footer-links a:hover {
+  color: #e94560;
+}
+
+.divider {
+  color: #444;
+  margin: 0 0.75rem;
+}
+
+.footer p {
+  color: #555;
 }
