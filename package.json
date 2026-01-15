@@ -1,0 +1,8 @@
+{
+  "name": "databeeper",
+  "version": "1.0.0",
+  "description": "Databeeper website",
+  "scripts": {
+    "build": "echo 'No build required' && mkdir -p dist && cp index.html dist/"
+  }
+}
